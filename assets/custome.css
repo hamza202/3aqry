@@ -2,5 +2,19 @@
     font-family: Tajawal , 'sans-serif'  !important;
 }
 html, body{
-    font-size: 14px;
+    font-size: 15px;
+}
+.table th{
+    font-weight: 600;
+}
+.table td{
+    font-weight: 500;
+}
+.m-badge--gold{
+    color: #fff;
+    background-color: #ffd700;
+}
+.m-dropdown.m-dropdown--align-center .m-dropdown__wrapper{
+    right: auto;
+    left: 50%;
 }
