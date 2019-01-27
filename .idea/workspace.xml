@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73a52b5-5dc8-4d04-a7db-53a86c3ad5d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_bar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/custome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/demo/default/custom/crud/datatables/basic/headers.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/demo/default/custom/crud/datatables/basic/headers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendors/base/vendors.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendors/base/vendors.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendors/custom/datatables/datatables.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendors/custom/datatables/datatables.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
+            <state relative-caret-position="408">
               <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="32" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,30 +28,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/users.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#43114#43121#1#HTML" expanded="true" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#44068#44075#1#HTML" expanded="true" />
-                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#45037#45044#1#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="2958">
+              <caret line="174" column="74" selection-start-line="174" selection-start-column="74" selection-end-line="174" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_bar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/top_bar.php">
+        <entry file="file://$PROJECT_DIR$/profile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-              <folding>
-                <element signature="n#div#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="157" column="85" selection-start-line="157" selection-start-column="85" selection-end-line="157" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -69,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -78,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/menu.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -95,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://G:/themforest/metronic-5-5-5/metronic_v5.5.5/theme/default/dist/default/crud/datatables/basic/headers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="833">
               <caret line="49" column="140" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="140" />
               <folding>
                 <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -107,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/custome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -131,12 +118,17 @@
       <find>datatables</find>
       <find>entries</find>
       <find>Show</find>
-      <find>Show</find>
       <find>Showing</find>
       <find>m-portlet__head-tools</find>
       <find>la la-angle-right</find>
       <find>View Accounts</find>
       <find>m-dropdown__arrow--right</find>
+      <find>m-subheader</find>
+      <find>m-grid__item m-grid__item--fluid m-wrapper</find>
+      <find>My Profile</find>
+      <find>Mark Andre</find>
+      <find>اعلانات المستخدم</find>
+      <find>حذف</find>
     </findStrings>
     <replaceStrings>
       <replace>assets</replace>
@@ -156,18 +148,20 @@
         <option value="$PROJECT_DIR$/assets/vendors/base/vendors.bundle.js" />
         <option value="$PROJECT_DIR$/assets/demo/default/custom/crud/datatables/basic/headers.js" />
         <option value="$PROJECT_DIR$/assets/vendors/custom/datatables/datatables.bundle.js" />
-        <option value="$PROJECT_DIR$/assets/custome.css" />
         <option value="$PROJECT_DIR$/users.html" />
         <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/users.php" />
         <option value="$PROJECT_DIR$/top_bar.php" />
+        <option value="G:/themforest/metronic-5-5-5/metronic_v5.5.5/theme/default/dist/default/header/profile.html" />
+        <option value="$PROJECT_DIR$/assets/custome.css" />
+        <option value="$PROJECT_DIR$/profile.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-109" />
+    <option name="y" value="261" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -177,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,10 +178,16 @@
               <item name="3aqry" type="b2602c69:ProjectViewProjectNode" />
               <item name="3aqry" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="3aqry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3aqry" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,18 +221,22 @@
       <workItem from="1546778827125" duration="3652000" />
       <workItem from="1547384172382" duration="1897000" />
       <workItem from="1547732314876" duration="1827000" />
-      <workItem from="1547975433742" duration="12080000" />
+      <workItem from="1547975433742" duration="12679000" />
+      <workItem from="1548070578786" duration="2688000" />
+      <workItem from="1548323307032" duration="1198000" />
+      <workItem from="1548333531191" duration="3037000" />
+      <workItem from="1548582327294" duration="1784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19456000" />
+    <option name="totallyTimeSpent" value="28762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,9 +335,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendors/custom/datatables/datatables.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret column="84994" selection-start-column="84994" selection-end-column="84994" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/themforest/metronic-5-5-5/metronic_v5.5.5/theme/default/dist/default/header/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1218" lean-forward="true" selection-start-line="1218" selection-end-line="1218" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
+        <state relative-caret-position="408">
           <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -342,20 +359,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/themforest/metronic-5-5-5/metronic_v5.5.5/theme/default/dist/default/crud/datatables/basic/headers.html">
+    <entry file="file://$PROJECT_DIR$/users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="49" column="140" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="140" />
-          <folding>
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="2958">
+          <caret line="174" column="74" selection-start-line="174" selection-start-column="74" selection-end-line="174" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendors/custom/datatables/datatables.bundle.js">
+    <entry file="file://$PROJECT_DIR$/top_bar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret column="84994" selection-start-column="84994" selection-end-column="84994" />
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -366,51 +394,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://G:/themforest/metronic-5-5-5/metronic_v5.5.5/theme/default/dist/default/crud/datatables/basic/headers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="140" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="140" />
+          <folding>
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/custome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
+    <entry file="file://$PROJECT_DIR$/profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#43114#43121#1#HTML" expanded="true" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#44068#44075#1#HTML" expanded="true" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#45037#45044#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top_bar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="n#div#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="243">
+          <caret line="157" column="85" selection-start-line="157" selection-start-column="85" selection-end-line="157" selection-end-column="85" />
         </state>
       </provider>
     </entry>

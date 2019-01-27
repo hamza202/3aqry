@@ -18,3 +18,10 @@ html, body{
     right: auto;
     left: 50%;
 }
+.my-profile .m-nav.m-nav--hover-bg .m-nav__item>.m-nav__link{
+    padding: 12px 15px;
+}
+.profile-btn-option .btn.m-btn--custom{
+    padding-left: 4px;
+    padding-right: 4px;
+}
