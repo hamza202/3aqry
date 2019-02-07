@@ -29,7 +29,7 @@
                                                                           class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">الإعلانات النشطة</span></a></li>
-                        <li class="m-menu__item " aria-haspopup="true"><a href="#" class="m-menu__link "><i
+                        <li class="m-menu__item " aria-haspopup="true"><a href="pending-ads.php" class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">الإعلانات المعلقة</span></a></li>
                     </ul>

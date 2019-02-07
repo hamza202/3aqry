@@ -92,7 +92,7 @@
                 </div>
 
                 <!-- END: Brand -->
-                <?php include 'top_bar.php'?>
+                <?php include 'top_bar.php' ?>
             </div>
         </div>
     </header>
@@ -102,7 +102,7 @@
     <!-- begin::Body -->
     <div class="m-grid__item m-grid__item--fluid m-grid m-grid--ver-desktop m-grid--desktop m-body">
 
-        <?php include 'menu.php'?>
+        <?php include 'menu.php' ?>
 
         <!-- END: Left Aside -->
         <div class="m-grid__item m-grid__item--fluid m-wrapper">
@@ -123,21 +123,69 @@
                         <div class="m-portlet__head-caption">
                             <div class="m-portlet__head-title">
                                 <h3 class="m-portlet__head-text">
-                                    الإعلانات على الخريطة
+                                    الإعلانات المعلقة
                                 </h3>
                             </div>
                         </div>
                         <div class="m-portlet__head-tools">
-                            <a href="#" class="btn btn-info m-btn m-btn--custom m-btn--icon">
+                            <a href="advertising.php" class="btn btn-info m-btn m-btn--custom m-btn--icon">
                                 <span>
                                     <i class="la la-chain"></i>
-                                    <span>الإعلانات (جداول)</span>
+                                    <span>الإعلانات النشطة</span>
                                 </span>
                             </a>
                         </div>
                     </div>
                     <div class="m-portlet__body">
-                        jkdjsk
+                        <div class="m-section">
+                            <div class="m-section__content">
+                                <table class="table table-striped m-table m-table--head-bg-success">
+                                    <thead>
+                                    <tr>
+                                        <th>رقم</th>
+                                        <th>وصف الإعلان</th>
+                                        <th>اسم الناشر</th>
+                                        <th>الموافقة</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <th scope="row">201801#</th>
+                                        <td>وصف مصغر عن الإعلان</td>
+                                        <td>اسم الناشر</td>
+                                        <td>
+                                            <a href="#m_modal_5" data-target="#m_modal_5" data-toggle="modal"
+                                               class="btn btn-success m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="fa fa-check"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">201801#</th>
+                                        <td>وصف مصغر عن الإعلان</td>
+                                        <td>اسم الناشر</td>
+                                        <td>
+                                            <a href="#m_modal_5" data-target="#m_modal_5" data-toggle="modal"
+                                               class="btn btn-success m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="fa fa-check"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">201801#</th>
+                                        <td>وصف مصغر عن الإعلان</td>
+                                        <td>اسم الناشر</td>
+                                        <td>
+                                            <a href="#m_modal_5" data-target="#m_modal_5" data-toggle="modal"
+                                               class="btn btn-success m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="fa fa-check"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -147,7 +195,7 @@
     </div>
 
     <!-- end:: Body -->
-   <?php include 'footer.php'?>
+    <?php include 'footer.php' ?>
 </div>
 
 <!-- end:: Page -->
@@ -165,14 +213,14 @@
     <div class="modal-dialog modal-sm" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">تفعيل الحساب</h5>
+                <h5 class="modal-title" id="exampleModalLabel">الموافقة على الإعلان</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
                 <p>
-                    هل انت متأكد من تفعيل هذا الحساب؟
+                    هل انت متأكد من الموافقة على هذا الإعلان؟
                 </p>
             </div>
             <div class="modal-footer">
@@ -182,52 +230,6 @@
         </div>
     </div>
 </div>
-<div class="modal fade" id="m_modal_4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel1" aria-hidden="true">
-    <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel1">اضافة للمميز</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    هل انت متأكد من اضافة هذا الحساب للحسابات المميزة؟
-                </p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
-                <button type="button" class="btn btn-success">تأكيد</button>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="modal fade" id="m_modal_3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
-    <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel2">حذف الحساب</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    هل انت متأكد من حذف هذا الحساب؟
-                </p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
-                <button type="button" class="btn btn-danger">تأكيد</button>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--end::Modal-->
-
-
 <!--begin::Global Theme Bundle -->
 <script src="assets/vendors/base/vendors.bundle.js" type="text/javascript"></script>
 <script src="assets/demo/default/base/scripts.bundle.js" type="text/javascript"></script>

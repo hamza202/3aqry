@@ -230,3 +230,9 @@ span.infobox_rate {
 .m-brand__logo-wrapper img{
     max-width: 145px;
 }
+.table td{
+    vertical-align: middle;
+}
+.table th{
+    vertical-align: middle;
+}

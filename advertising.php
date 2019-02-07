@@ -128,7 +128,7 @@
                             </div>
                         </div>
                         <div class="m-portlet__head-tools">
-                            <a href="#" class="btn btn-info m-btn m-btn--custom m-btn--icon">
+                            <a href="advertising-table.php" class="btn btn-info m-btn m-btn--custom m-btn--icon">
                                 <span>
                                     <i class="la la-chain"></i>
                                     <span>الإعلانات (جداول)</span>
