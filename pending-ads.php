@@ -5,7 +5,7 @@
 <!-- begin::Head -->
 <head>
     <meta charset="utf-8"/>
-    <title>عقاري | المستخدمين</title>
+    <title>عقاري | الإعلانات</title>
     <meta name="description" content="Latest updates and statistic charts">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
 
@@ -111,7 +111,7 @@
             <div class="m-subheader ">
                 <div class="d-flex align-items-center">
                     <div class="mr-auto">
-                        <h3 class="m-subheader__title ">المستخدمين</h3>
+                        <h3 class="m-subheader__title ">الإعلانات</h3>
                     </div>
                 </div>
             </div>
@@ -123,119 +123,21 @@
                         <div class="m-portlet__head-caption">
                             <div class="m-portlet__head-title">
                                 <h3 class="m-portlet__head-text">
-                                    المستخدمين المسجلين في التطبيق
+                                    الإعلانات على الخريطة
                                 </h3>
                             </div>
                         </div>
+                        <div class="m-portlet__head-tools">
+                            <a href="#" class="btn btn-info m-btn m-btn--custom m-btn--icon">
+                                <span>
+                                    <i class="la la-chain"></i>
+                                    <span>الإعلانات (جداول)</span>
+                                </span>
+                            </a>
+                        </div>
                     </div>
                     <div class="m-portlet__body">
-
-                        <!--begin: Datatable -->
-                        <table class="table table-striped- table-bordered table-hover table-checkable" id="m_table_1">
-                            <thead>
-                            <tr>
-                                <th>ID</th>
-                                <th>الأسم</th>
-                                <th>رقم الجوال</th>
-                                <th>تاريخ التسجيل</th>
-                                <th>نوع الحساب</th>
-                                <th>مفعل \ معطل</th>
-                                <th>عمليات</th>
-                                <th>بروفايل</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td>1</td>
-                                <td>حمزة ابو عيطة</td>
-                                <td>0595779004</td>
-                                <td>2019/1/20</td>
-                                <td><span class="m-badge  m-badge--gold m-badge--wide">مميز</span></td>
-                                <td><span class="m-badge  m-badge--success m-badge--wide">مفعل</span></td>
-                                <td>
-                                     <span class="dropdown user-option">
-                                        <a href="#"
-                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
-                                           data-toggle="dropdown"
-                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-left user-option">
-                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal" data-target="#m_modal_5"><i
-                                                    class="la la-check"></i> تفعيل الحساب </a>
-                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal" data-target="#m_modal_4"><i
-                                                      class="la la-star-half-full"></i> حساب عادي</a>
-                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal" data-target="#m_modal_3">
-                                                   <i class="la la-trash"></i> حذف</a>
-                                        </div>
-                                    </span>
-                                </td>
-                                <td>
-                                    <a href="#" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
-                                        <i class="far fa-eye"></i>
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>حمزة ابو عيطة</td>
-                                <td>0595779004</td>
-                                <td>2019/1/20</td>
-                                <td><span class="m-badge  m-badge--gold m-badge--wide">مميز</span></td>
-                                <td><span class="m-badge  m-badge--danger m-badge--wide">معطل</span></td>
-                                <td>
-                                    <span class="dropdown">
-                                        <a href="#"
-                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
-                                           data-toggle="dropdown"
-                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-left">
-                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal" data-target="#m_modal_5"><i
-                                                    class="la la-close"></i> تعطيل الحساب </a>
-                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal" data-target="#m_modal_4"><i
-                                                      class="la la-star-half-full"></i> حساب عادي</a>
-                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal" data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
-                                        </div>
-                                    </span>
-                                </td>
-                                <td>
-                                    <a href="#" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
-                                        <i class="far fa-eye"></i>
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>حمزة ابو عيطة</td>
-                                <td>0595779004</td>
-                                <td>2019/1/20</td>
-                                <td><span class="m-badge  m-badge--metal m-badge--wide">عادي</span></td>
-                                <td><span class="m-badge  m-badge--success m-badge--wide">مفعل</span></td>
-                                <td >
-                                     <span class="dropdown">
-                                        <a href="#"
-                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
-                                           data-toggle="dropdown"
-                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-left">
-                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal" data-target="#m_modal_5"><i
-                                                    class="la la-check"></i> تفعيل الحساب </a>
-                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal" data-target="#m_modal_4"><i
-                                                      class="la la-star"></i> حساب مميز</a>
-                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal" data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
-                                        </div>
-                                    </span>
-                                </td>
-                                <td>
-                                    <a href="#" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
-                                        <i class="far fa-eye"></i>
-                                    </a>
-                                </td>
-                            </tr>
-
-                            </tbody>
-                        </table>
+                        jkdjsk
                     </div>
                 </div>
 
@@ -245,7 +147,6 @@
     </div>
 
     <!-- end:: Body -->
-
    <?php include 'footer.php'?>
 </div>
 
@@ -334,12 +235,6 @@
 <!--end::Global Theme Bundle -->
 
 
-<!--begin::Page Scripts -->
-<script src="assets/vendors/custom/datatables/datatables.bundle.js" type="text/javascript"></script>
-
-<script src="assets/demo/default/custom/crud/datatables/basic/headers.js" type="text/javascript"></script>
-
-<!--end::Page Scripts -->
 </body>
 
 <!-- end::Body -->
