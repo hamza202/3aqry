@@ -164,6 +164,8 @@
                                         <th>رقم الإعلان</th>
                                         <th>نص اعلان مصغر</th>
                                         <th>اسم الناشر</th>
+                                        <th>عمليات</th>
+                                        <th>تفاصيل</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -171,16 +173,92 @@
                                         <td>#201801</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                    <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-close"></i> تعطيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown user-option">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left user-option">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3">
+                                                   <i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star"></i> حساب مميز</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
 
                                     </tbody>
@@ -194,6 +272,8 @@
                                         <th>رقم الإعلان</th>
                                         <th>نص اعلان مصغر</th>
                                         <th>اسم الناشر</th>
+                                        <th>عمليات</th>
+                                        <th>تفاصيل</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -201,17 +281,94 @@
                                         <td>#201801</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                    <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-close"></i> تعطيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown user-option">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left user-option">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3">
+                                                   <i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star"></i> حساب مميز</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
+
                                     </tbody>
                                 </table>
                             </div>
@@ -223,6 +380,8 @@
                                         <th>رقم الإعلان</th>
                                         <th>نص اعلان مصغر</th>
                                         <th>اسم الناشر</th>
+                                        <th>عمليات</th>
+                                        <th>تفاصيل</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -230,17 +389,94 @@
                                         <td>#201801</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                    <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-close"></i> تعطيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown user-option">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left user-option">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3">
+                                                   <i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star"></i> حساب مميز</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
+
                                     </tbody>
                                 </table>
                             </div>
@@ -252,6 +488,8 @@
                                         <th>رقم الإعلان</th>
                                         <th>نص اعلان مصغر</th>
                                         <th>اسم الناشر</th>
+                                        <th>عمليات</th>
+                                        <th>تفاصيل</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -259,17 +497,94 @@
                                         <td>#201801</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                    <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-close"></i> تعطيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown user-option">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left user-option">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star-half-full"></i> حساب عادي</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3">
+                                                   <i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td>#201802</td>
                                         <td>نص اعلان مصغر</td>
                                         <td>اسم الناشر</td>
+                                        <td>
+                                     <span class="dropdown">
+                                        <a href="#"
+                                           class="btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill"
+                                           data-toggle="dropdown"
+                                           aria-expanded="true"><i class="la la-ellipsis-h"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-left">
+                                            <a class="dropdown-item" href="#m_modal_5" data-toggle="modal"
+                                               data-target="#m_modal_5"><i
+                                                        class="la la-check"></i> تفعيل الحساب </a>
+                                              <a class="dropdown-item" href="#m_modal_4" data-toggle="modal"
+                                                 data-target="#m_modal_4"><i
+                                                          class="la la-star"></i> حساب مميز</a>
+                                               <a class="dropdown-item" href="#m_modal_3" data-toggle="modal"
+                                                  data-target="#m_modal_3"><i class="la la-trash"></i> حذف</a>
+                                        </div>
+                                    </span>
+                                        </td>
+                                        <td>
+                                            <a href="#"
+                                               class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                                <i class="far fa-eye"></i>
+                                            </a>
+                                        </td>
                                     </tr>
+
                                     </tbody>
                                 </table>
                             </div>
@@ -293,7 +608,74 @@
 <div id="m_scroll_top" class="m-scroll-top">
     <i class="la la-arrow-up"></i>
 </div>
-
+<!--Start modal-->
+<div class="modal fade" id="m_modal_5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">تفعيل الحساب</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    هل انت متأكد من تفعيل هذا الحساب؟
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
+                <button type="button" class="btn btn-success">تأكيد</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="m_modal_4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel1"
+     aria-hidden="true">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel1">اضافة للمميز</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    هل انت متأكد من اضافة هذا الحساب للحسابات المميزة؟
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
+                <button type="button" class="btn btn-success">تأكيد</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="m_modal_3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2"
+     aria-hidden="true">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel2">حذف الحساب</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    هل انت متأكد من حذف هذا الحساب؟
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
+                <button type="button" class="btn btn-danger">تأكيد</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End modal-->
 
 <!--begin::Global Theme Bundle -->
 <script src="assets/vendors/base/vendors.bundle.js" type="text/javascript"></script>
