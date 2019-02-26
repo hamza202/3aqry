@@ -193,7 +193,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -224,7 +224,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -254,7 +254,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -301,7 +301,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -332,7 +332,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -362,7 +362,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -409,7 +409,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -440,7 +440,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -470,7 +470,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -517,7 +517,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -548,7 +548,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
@@ -578,7 +578,7 @@
                                     </span>
                                         </td>
                                         <td>
-                                            <a href="#"
+                                            <a href="advertising-details.php"
                                                class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                                 <i class="far fa-eye"></i>
                                             </a>
