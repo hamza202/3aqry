@@ -35,6 +35,13 @@
                     </ul>
                 </div>
             </li>
+            <li class="m-menu__item  m-menu__item--submenu" aria-haspopup="true" m-menu-submenu-toggle="hover">
+                <a href="contracts.php" class="m-menu__link m-menu__toggle">
+                    <i class="m-menu__link-icon flaticon-user">
+                    </i><span class="m-menu__link-text">عقود الإيجار</span>
+                </a>
+
+            </li>
         </ul>
     </div>
 

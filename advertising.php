@@ -250,7 +250,7 @@
 
 <!--end::Global Theme Bundle -->
 <script src="assets/js/map_restaurants.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_BD5Oea2Sx0S3AQYNaB97s_2M6Qc2FwU&libraries=places&callback=initAutocomplete"
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwQWgqTGypi82vAyP97l2O5Zi_RBiVA5E&libraries=places&callback=initAutocomplete"
 ></script>
 <script src="assets/js/infobox.js" ></script>
 
