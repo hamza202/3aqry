@@ -139,40 +139,29 @@
                                         <h5 class="font-size-3">123456789</h5>
                                     </div>
                                 </div>
+                                <div class="m-portlet__body-separator mt-2 mb-2"></div>
+                                <div class="m-card-profile">
+                                    <div class="m-card-profile__details">
+                                        <span class="m-card-profile__name font-size-2">رقم الجوال</span class="m-card-profile__name">
+                                    </div>
+                                    <div class="m-card-profile__details">
+                                        <h5 class="font-size-3">123456789</h5>
+                                    </div>
+                                </div>
+                                <div class="m-portlet__body-separator mt-2 mb-4"></div>
                                 <div class="profile-btn-option">
                                     <a href="#m_modal_5" data-toggle="modal" data-target="#m_modal_5"
                                        class="btn btn-success m-btn m-btn--custom m-btn--icon d-block text-center ">
                                     <span class="m-auto">
                                         <i class="la la-check"></i>
-                                        <span>تفعيل الإعلان</span>
-                                    </span>
-                                    </a>
-                                    <a href="#m_modal_5" data-toggle="modal" data-target="#m_modal_5"
-                                       class="btn btn-warning  m-btn m-btn--custom m-btn--icon d-block text-center mt-3">
-                                    <span class="m-auto">
-                                        <i class="la la-trash"></i>
-                                        <span>تعطيل الإعلان</span>
+                                        <span>تم الإنجاز</span>
                                     </span>
                                     </a>
                                     <a href="#m_modal_4" data-toggle="modal" data-target="#m_modal_4"
                                        class="btn btn-info  m-btn m-btn--custom m-btn--icon d-block text-center mt-3">
                                     <span class="m-auto">
-                                        <i class="la la-star-half-full"></i>
-                                        <span>إعلان عادي</span>
-                                    </span>
-                                    </a>
-                                    <a href="#m_modal_4" data-toggle="modal" data-target="#m_modal_4"
-                                       class="btn btn-primary m-btn m-btn--custom m-btn--icon d-block text-center mt-3">
-                                    <span class="m-auto">
-                                        <i class="la la-star"></i>
-                                        <span>إعلان مميز</span>
-                                    </span>
-                                    </a>
-                                    <a href="#m_modal_3" data-toggle="modal" data-target="#m_modal_3"
-                                       class="btn btn-danger m-btn m-btn--custom m-btn--icon d-block text-center mt-3">
-                                    <span class="m-auto">
-                                        <i class="la la-trash"></i>
-                                        <span> حذف الإعلان</span>
+                                        <i class="flaticon-diagram"></i>
+                                        <span>قيد التنفيذ</span>
                                     </span>
                                     </a>
                                 </div>
@@ -189,51 +178,35 @@
 
                                             <div class="form-group m-form__group row">
                                                 <div class="col-12">
-                                                    <h5 class="m-form__section">تفاصيل الإعلان:</h5>
+                                                    <h5 class="m-form__section">صورة بطاقة المستأجر:</h5>
                                                 </div>
                                             </div>
 
                                             <div class="form-group m-form__group row pt-0">
                                                 <div class="col-12">
-                                                    <p CLASS="text-justify">
-                                                        هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا
-                                                        النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد
-                                                        من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
-                                                        إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة
-                                                        عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد
-                                                        النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى
-                                                        كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
-                                                    </p>
+                                                    <img class="img-fluid" src="assets/images/card.png" alt="">
                                                 </div>
                                             </div>
                                             <div class="form-group m-form__group row">
                                                 <div class="col-12">
-                                                    <h5 class="m-form__section">الوصف والتافصیل الأخرى:</h5>
+                                                    <h5 class="m-form__section">صورة بطاقة المالك:</h5>
                                                 </div>
                                             </div>
 
                                             <div class="form-group m-form__group row pt-0">
                                                 <div class="col-12">
-                                                    <p CLASS="text-justify">
-                                                        هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا
-                                                        النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد
-                                                        من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
-                                                        إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة
-                                                        عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد
-                                                        النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى
-                                                        كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
-                                                    </p>
+                                                    <img class="img-fluid" src="assets/images/card.png" alt="">
                                                 </div>
                                             </div>
                                             <div class="form-group m-form__group row">
                                                 <div class="col-12">
-                                                    <h5 class="m-form__section">موقع العقار على الخريطة:</h5>
+                                                    <h5 class="m-form__section">صورة الصك:</h5>
                                                 </div>
                                             </div>
 
                                             <div class="form-group m-form__group row pt-0">
                                                 <div class="col-12">
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13608.553675899977!2d34.448316555480986!3d31.492878908872918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14fd81e44411e4db%3A0x4eb15a310a560a0b!2z2YXYs9is2K8g2K_Yp9ixINin2YTYs9mE2KfZhQ!5e0!3m2!1sar!2s!4v1551007473334" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                    <img class="img-fluid" src="assets/images/card.png" alt="">
                                                 </div>
                                             </div>
 
@@ -289,50 +262,6 @@
         </div>
     </div>
 </div>
-<div class="modal fade" id="m_modal_4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel1"
-     aria-hidden="true">
-    <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel1">اضافة للمميز</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    هل انت متأكد من اضافة هذا الحساب للحسابات المميزة؟
-                </p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
-                <button type="button" class="btn btn-success">تأكيد</button>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="modal fade" id="m_modal_3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2"
-     aria-hidden="true">
-    <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel2">حذف الحساب</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    هل انت متأكد من حذف هذا الحساب؟
-                </p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
-                <button type="button" class="btn btn-danger">تأكيد</button>
-            </div>
-        </div>
-    </div>
-</div>
 
 <!--end::Modal-->
 
@@ -362,45 +291,35 @@
 <div class="modal fade" id="m_modal_4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel1"
      aria-hidden="true">
     <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel1">اضافة للمميز</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+        <form action="#">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel1">اضافة للمميز</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        هل انت متأكد من اضافة هذا الحساب للحسابات المميزة؟
+                    </p>
+
+                    <div class="form-group m-form__group">
+                        <label for="exampleInputEmail1">File Browser</label>
+                        <div></div>
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="customFile">
+                            <label class="custom-file-label" for="customFile">اختر ملف</label>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
+                    <button type="submit" class="btn btn-success">تأكيد</button>
+                </div>
             </div>
-            <div class="modal-body">
-                <p>
-                    هل انت متأكد من اضافة هذا الحساب للحسابات المميزة؟
-                </p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
-                <button type="button" class="btn btn-success">تأكيد</button>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="modal fade" id="m_modal_3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2"
-     aria-hidden="true">
-    <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel2">حذف الحساب</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    هل انت متأكد من حذف هذا الحساب؟
-                </p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
-                <button type="button" class="btn btn-danger">تأكيد</button>
-            </div>
-        </div>
+        </form>
     </div>
 </div>
 

@@ -242,3 +242,6 @@ span.infobox_rate {
 .font-size-3{
     font-size: 16px;
 }
+.custom-file-input:lang(en) ~ .custom-file-label::after {
+    content: "تصفح";
+}
