@@ -138,6 +138,7 @@
                                 <th>اسم المالك</th>
                                 <th>اسم المستأجر</th>
                                 <th>تاريخ التسجيل</th>
+                                <th>حالة العقد</th>
                                 <th>تفاصيل العقد</th>
                                 <th>حذف</th>
 
@@ -149,6 +150,7 @@
                                 <td>حمزة ابو عيطة</td>
                                 <td>نور الدين زيادة</td>
                                 <td>2019/1/20</td>
+                                <td><span class="m-badge  m-badge--gold m-badge--wide">جديد</span></td>
                                 <td class="text-center">
                                     <a href="profile.php" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                         <i class="far fa-eye"></i>
@@ -167,6 +169,7 @@
                                 <td>حمزة ابو عيطة</td>
                                 <td>نور الدين زيادة</td>
                                 <td>2019/1/20</td>
+                                <td><span class="m-badge  m-badge--success m-badge--wide">قيد التنفيذ</span></td>
                                 <td class="text-center">
                                     <a href="profile.php" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                         <i class="far fa-eye"></i>
@@ -185,6 +188,7 @@
                                 <td>حمزة ابو عيطة</td>
                                 <td>نور الدين زيادة</td>
                                 <td>2019/1/20</td>
+                                <td><span class="m-badge  m-badge--metal m-badge--wide">تم الإنجاز</span></td>
                                 <td class="text-center">
                                     <a href="profile.php" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                         <i class="far fa-eye"></i>
@@ -203,6 +207,7 @@
                                 <td>حمزة ابو عيطة</td>
                                 <td>نور الدين زيادة</td>
                                 <td>2019/1/20</td>
+                                <td><span class="m-badge  m-badge--gold m-badge--wide">جديد</span></td>
                                 <td class="text-center">
                                     <a href="profile.php" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                         <i class="far fa-eye"></i>
@@ -221,6 +226,26 @@
                                 <td>حمزة ابو عيطة</td>
                                 <td>نور الدين زيادة</td>
                                 <td>2019/1/20</td>
+                                <td><span class="m-badge  m-badge--success m-badge--wide">قيد التنفيذ</span></td>
+                                <td class="text-center">
+                                    <a href="profile.php" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                        <i class="far fa-eye"></i>
+                                    </a>
+
+                                </td>
+                                <td class="text-center">
+
+                                    <a  href="#m_modal_3" data-toggle="modal" data-target="#m_modal_3" class="btn btn-outline-danger m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
+                                        <i class="la la-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>#201801</td>
+                                <td>حمزة ابو عيطة</td>
+                                <td>نور الدين زيادة</td>
+                                <td>2019/1/20</td>
+                                <td><span class="m-badge  m-badge--metal m-badge--wide">تم الإنجاز</span></td>
                                 <td class="text-center">
                                     <a href="profile.php" class="btn btn-outline-info m-btn m-btn--icon m-btn--icon-only m-btn--custom m-btn--pill m-btn--air">
                                         <i class="far fa-eye"></i>
