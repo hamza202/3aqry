@@ -29,7 +29,8 @@
                                                                           class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">الإعلانات النشطة</span></a></li>
-                        <li class="m-menu__item " aria-haspopup="true"><a href="pending-ads.php" class="m-menu__link "><i
+                        <li class="m-menu__item " aria-haspopup="true"><a href="pending-ads.php"
+                                                                          class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">الإعلانات المعلقة</span></a></li>
                     </ul>
@@ -37,8 +38,15 @@
             </li>
             <li class="m-menu__item  m-menu__item--submenu" aria-haspopup="true" m-menu-submenu-toggle="hover">
                 <a href="contracts.php" class="m-menu__link m-menu__toggle">
-                    <i class="m-menu__link-icon flaticon-user">
+                    <i class="m-menu__link-icon la la-sticky-note-o">
                     </i><span class="m-menu__link-text">عقود الإيجار</span>
+                </a>
+
+            </li>
+            <li class="m-menu__item  m-menu__item--submenu" aria-haspopup="true" m-menu-submenu-toggle="hover">
+                <a href="real_estate.php" class="m-menu__link m-menu__toggle">
+                    <i class="m-menu__link-icon la la-building-o">
+                    </i><span class="m-menu__link-text">تسويق لعقار</span>
                 </a>
 
             </li>
