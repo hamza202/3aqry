@@ -126,6 +126,15 @@
                                     تفاصيل التسويق لعقار
                                 </h3>
                             </div>
+
+                        </div>
+                        <div class="m-portlet__head-tools">
+                            <a href="#" class="btn btn-success m-btn m-btn--icon">
+															<span>
+																<i class="fas fa-link"></i>
+																<span>اعلانات تسويق العقار</span>
+															</span>
+                            </a>
                         </div>
                     </div>
                     <div class="m-portlet__body">
